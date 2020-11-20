@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Created by Marlon Poddalgoda
-# Created on November 19 2020
-# This is the "Hello, World!" program with proper style
+# Created on November 20 2020
+# This program calculates the area and perimeter of a defined rectangle
 
 
 def main():
